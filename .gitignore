@@ -1,0 +1,11 @@
+ass
+*.jar
+/bin
+.eclipse
+.project
+.classpath
+/.settings
+/data
+target
+.settings
+
